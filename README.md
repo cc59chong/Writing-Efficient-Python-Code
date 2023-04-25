@@ -1,6 +1,6 @@
 # Writing-Efficient-Python-Code
 ## Discription
-
+In this course, you'll learn how to use Python's built-in data structures, functions, and modules to write cleaner, faster, and more efficient code. We'll explore how to time and profile code in order to find bottlenecks. Then, you'll practice eliminating these bottlenecks, and other bad design patterns, using Python's Standard Library, NumPy, and pandas.
 ### Chapters 1 Foundations for efficiencies
 In this chapter, you'll learn what it means to write efficient Python code. You'll explore Python's Standard Library, learn about NumPy arrays, and practice using some of Python's built-in tools. This chapter builds a foundation for the concepts covered ahead.
 * `range()`, `*range()`(unpack a range), `enumerate()`, `*enumerate()`, `map()`, `*map()`(unpack map into a list), `np.arange()`, `.reshape()`
